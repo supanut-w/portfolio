@@ -1,6 +1,5 @@
 .sidebar-section {
-  display: flex;
-  /* background-color: #030303da; */
+  /* display: flex; */
 }
 
 .sidebar {
@@ -16,7 +15,7 @@
 
 .icon-for-sidebar-expand-and-collapse {
   display: flex;
-  align-items: right;
+  /* align-items: right; */
   justify-content: right;
   cursor: pointer;
 }
