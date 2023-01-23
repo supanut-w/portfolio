@@ -22,6 +22,16 @@ const Home = () => {
             }}
           />
         </h3>
+        <div className="button-for-action">
+          <div className="hire-me-button">
+            Hire Me
+          </div>
+          <div className="get-resume-button">
+            <a href="/" download="supanut-cv">
+              Get Resume
+            </a>
+          </div>
+        </div>
       </div>
     </div>
   );
